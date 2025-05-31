@@ -31,12 +31,16 @@ Reports help choose the right discounts, make better deals with customers, and f
 Financial analysis helps businesses understand how they are doing with money, make smart decisions, and share clear updates with others.
 
 📊 Why Finance Data Is Useful
+
 Looking at finance data helps compare past and current performance, plan budgets, and prepare for the future.
 
 📌 How Reports Help
+
 Reports connect financial planning with company goals and build trust in the company’s financial health.
 ## 🖥️ Technical Skills
+
 ➡️ Proficient in ETL process: Extract, Transform, Load
+
 ➡️ Create date tables using Power Query
 ➡️ Derive fiscal months and quarters accurately
 ➡️ Build data model relationships using Power Pivot
