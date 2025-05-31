@@ -1,7 +1,7 @@
 # AtliQ Reports
 ## About Project
 Atliq Hardwares Sales Performance & Financial Overview (2019-2021)
-#📊 Customer Sales Highlights (2019-2021) 🚀
+## 📊 Customer Sales Highlights (2019-2021) 🚀
 •
 Overall, Net Sales across all customers saw remarkable growth, increasing from 87.5 Million INR in 2019 to 196.7 Million INR in 2020, and jumping to 598.9 Million INR in 2021. This represents a significant 304.5% increase from 2019 to 2021 based on the customer report's grand total.
 •
